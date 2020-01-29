@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(255, 250, 228);
+}
+p{
+    font-family: sans-serif;
+    text-align: left;
+    color: black;
+}
+.header{
+    font-family: sans-serif;
+    text-align: left;
+    color: rgb(79, 97, 66);
+}
+.Afbeelding{
+    text-align: centeleftr;
+}
+h3{
+    font-family: sans-serif;
+    text-align: left;
+    color: rgb(79, 97, 66);
+}
+
+ul{
+    font-family: sans-serif;
+    text-align: left;
+    margin-left: 10px;
+    color: black;
+    width: 320px;
+    padding: 30px;
+    border: 1px solid rgb(184, 202, 170);
+    margin: 10;
+  }
